@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mohit/projects/dotnet/DemoApp/DemoApp.csproj": {}
+    "/home/mohit/projects/dotnet/automationtesting/DemoApp.csproj": {}
   },
   "projects": {
-    "/home/mohit/projects/dotnet/DemoApp/DemoApp.csproj": {
+    "/home/mohit/projects/dotnet/automationtesting/DemoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mohit/projects/dotnet/DemoApp/DemoApp.csproj",
+        "projectUniqueName": "/home/mohit/projects/dotnet/automationtesting/DemoApp.csproj",
         "projectName": "DemoApp",
-        "projectPath": "/home/mohit/projects/dotnet/DemoApp/DemoApp.csproj",
+        "projectPath": "/home/mohit/projects/dotnet/automationtesting/DemoApp.csproj",
         "packagesPath": "/home/mohit/.nuget/packages/",
-        "outputPath": "/home/mohit/projects/dotnet/DemoApp/obj/",
+        "outputPath": "/home/mohit/projects/dotnet/automationtesting/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

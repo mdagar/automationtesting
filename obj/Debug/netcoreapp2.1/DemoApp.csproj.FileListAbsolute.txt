@@ -12,3 +12,17 @@
 /home/mohit/projects/dotnet/DemoApp/obj/Debug/netcoreapp2.1/DemoApp.RazorTargetAssemblyInfo.cache
 /home/mohit/projects/dotnet/DemoApp/obj/Debug/netcoreapp2.1/DemoApp.dll
 /home/mohit/projects/dotnet/DemoApp/obj/Debug/netcoreapp2.1/DemoApp.pdb
+/home/mohit/projects/dotnet/automationtesting/bin/Debug/netcoreapp2.1/DemoApp.deps.json
+/home/mohit/projects/dotnet/automationtesting/bin/Debug/netcoreapp2.1/DemoApp.runtimeconfig.json
+/home/mohit/projects/dotnet/automationtesting/bin/Debug/netcoreapp2.1/DemoApp.runtimeconfig.dev.json
+/home/mohit/projects/dotnet/automationtesting/bin/Debug/netcoreapp2.1/DemoApp.dll
+/home/mohit/projects/dotnet/automationtesting/bin/Debug/netcoreapp2.1/DemoApp.pdb
+/home/mohit/projects/dotnet/automationtesting/obj/Debug/netcoreapp2.1/DemoApp.csprojAssemblyReference.cache
+/home/mohit/projects/dotnet/automationtesting/obj/Debug/netcoreapp2.1/DemoApp.csproj.CoreCompileInputs.cache
+/home/mohit/projects/dotnet/automationtesting/obj/Debug/netcoreapp2.1/DemoApp.RazorAssemblyInfo.cache
+/home/mohit/projects/dotnet/automationtesting/obj/Debug/netcoreapp2.1/DemoApp.RazorAssemblyInfo.cs
+/home/mohit/projects/dotnet/automationtesting/obj/Debug/netcoreapp2.1/DemoApp.AssemblyInfoInputs.cache
+/home/mohit/projects/dotnet/automationtesting/obj/Debug/netcoreapp2.1/DemoApp.AssemblyInfo.cs
+/home/mohit/projects/dotnet/automationtesting/obj/Debug/netcoreapp2.1/DemoApp.RazorTargetAssemblyInfo.cache
+/home/mohit/projects/dotnet/automationtesting/obj/Debug/netcoreapp2.1/DemoApp.dll
+/home/mohit/projects/dotnet/automationtesting/obj/Debug/netcoreapp2.1/DemoApp.pdb
