@@ -27,7 +27,7 @@ namespace DemoApp
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("This is new dynamic build");
+                await context.Response.WriteAsync("This is new dynamic build. Testing build 13");
             });
         }
     }
