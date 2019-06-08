@@ -27,7 +27,7 @@ namespace DemoApp
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("This Every 15 Mins build");
+                await context.Response.WriteAsync("I have sucessfully setup the automation build..");
             });
         }
     }
